@@ -1,2 +1,28 @@
-/* some style */
+.go-timer {
+  padding-top: 20%;
+}
 
+.timer {
+  width: 50%;
+  float: left;
+  text-align: center;
+}
+
+.clock {
+  font-size: 140px;
+}
+
+.controls {
+  padding-top: 10%;
+  text-align: center;
+}
+
+.time-presets {
+  font-size: 40px;
+  margin-right: 2%;
+}
+
+.pause {
+  font-size: 40px;
+  margin-left: 2%;
+}
